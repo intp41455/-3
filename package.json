@@ -1,7 +1,9 @@
 {
-  "name": "react-example",
+  "name": "multi-agent-survey-workspace",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "企业多智能体调研与宣贯方案 — 15 页宣贯演讲（含逐字稿）+ 10 维度 78 问信息采集问卷 + 四阶段协同流程图，支持一键导出 Google Slides",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
