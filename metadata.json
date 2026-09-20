@@ -1,0 +1,6 @@
+{
+  "name": "企业多智能体调研与宣贯方案",
+  "description": "企业多智能体系统部署前置信息采集标准问卷与现状调研宣贯方案，支持全景15页PPT演讲展示、流程图与Google Slides导出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
